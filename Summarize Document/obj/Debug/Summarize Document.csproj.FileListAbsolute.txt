@@ -10,3 +10,7 @@ C:\Users\Adnan\Source\Repos\Summarize Document\Summarize Document\obj\Debug\Summ
 C:\Users\Adnan\Source\Repos\Summarize Document\Summarize Document\obj\Debug\Summarize Document.csproj.CopyComplete
 C:\Users\Adnan\Source\Repos\Summarize Document\Summarize Document\obj\Debug\Summarize Document.exe
 C:\Users\Adnan\Source\Repos\Summarize Document\Summarize Document\obj\Debug\Summarize Document.pdb
+C:\Users\Adnan\Source\Repos\Summarize Document\Summarize Document\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Adnan\Source\Repos\Summarize Document\Summarize Document\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Adnan\Source\Repos\Summarize Document\Summarize Document\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Adnan\Source\Repos\Summarize Document\Summarize Document\obj\Debug\Summarize_Document.articleName.resources
