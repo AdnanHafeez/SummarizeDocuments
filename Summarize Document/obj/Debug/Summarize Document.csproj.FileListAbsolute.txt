@@ -1,0 +1,12 @@
+C:\Users\Adnan\Source\Repos\Summarize Document\Summarize Document\bin\Debug\Summarize Document.exe.config
+C:\Users\Adnan\Source\Repos\Summarize Document\Summarize Document\bin\Debug\Summarize Document.exe
+C:\Users\Adnan\Source\Repos\Summarize Document\Summarize Document\bin\Debug\Summarize Document.pdb
+C:\Users\Adnan\Source\Repos\Summarize Document\Summarize Document\bin\Debug\OpenTextSummarizer.dll
+C:\Users\Adnan\Source\Repos\Summarize Document\Summarize Document\obj\Debug\Summarize Document.csprojAssemblyReference.cache
+C:\Users\Adnan\Source\Repos\Summarize Document\Summarize Document\obj\Debug\Summarize_Document.TLDR.resources
+C:\Users\Adnan\Source\Repos\Summarize Document\Summarize Document\obj\Debug\Summarize_Document.Properties.Resources.resources
+C:\Users\Adnan\Source\Repos\Summarize Document\Summarize Document\obj\Debug\Summarize Document.csproj.GenerateResource.cache
+C:\Users\Adnan\Source\Repos\Summarize Document\Summarize Document\obj\Debug\Summarize Document.csproj.CoreCompileInputs.cache
+C:\Users\Adnan\Source\Repos\Summarize Document\Summarize Document\obj\Debug\Summarize Document.csproj.CopyComplete
+C:\Users\Adnan\Source\Repos\Summarize Document\Summarize Document\obj\Debug\Summarize Document.exe
+C:\Users\Adnan\Source\Repos\Summarize Document\Summarize Document\obj\Debug\Summarize Document.pdb
